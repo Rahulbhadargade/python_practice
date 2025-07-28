@@ -72,8 +72,6 @@ Create a Pull Request on GitHub.
 - Located inside the PYTHON/ folder
 - Named clearly to reflect the functionality or topic
 
-We appreciate your contributions to help others learn!
-
 ---
 
 ### 🔧 How to Add This to Your README
